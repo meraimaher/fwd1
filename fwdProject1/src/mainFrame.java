@@ -9,6 +9,7 @@ import java.io.FileReader;
 import java.util.Arrays;
 import java.util.ArrayList;
 
+
 public class mainFrame {
     private JTable table1;
     private JButton createNewInoviceButton;
